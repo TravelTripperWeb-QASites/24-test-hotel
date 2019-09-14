@@ -1,0 +1,15 @@
+[
+  {
+    "advanced_options": {
+    },
+    "galleries": [
+      {
+        "gallery": "main",
+        "label": "One"
+      },
+      {
+      }
+    ],
+    "_template": "galleries"
+  }
+]

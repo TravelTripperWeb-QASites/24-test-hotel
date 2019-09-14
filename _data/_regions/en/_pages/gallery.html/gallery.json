@@ -5,7 +5,7 @@
     "galleries": [
       {
         "gallery": "main",
-        "label": "One"
+        "label": ""
       }
     ],
     "_template": "galleries"

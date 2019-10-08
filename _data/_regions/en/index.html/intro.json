@@ -2,7 +2,7 @@
   {
     "_template": "1_col",
     "html": {
-      "content": "<p class=\"h1\" style=\"text-align: center;\">Header</p>"
+      "content": "<p class=\"h1\" style=\"text-align: center;\">Header!</p>"
     }
   }
 ]

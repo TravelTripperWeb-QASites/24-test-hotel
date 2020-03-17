@@ -5,7 +5,7 @@
   },
   "tagline": {},
   "short_description": {
-    "type": "text",
+    "type": "string",
     "character_limit": 80,
     "localizable": true,
     "multiple": true

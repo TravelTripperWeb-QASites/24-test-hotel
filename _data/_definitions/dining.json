@@ -1,0 +1,35 @@
+{
+  "name": {
+    "required": true,
+    "localizable": true
+  },
+  "tagline": {},
+  "short_description": {
+    "type": "string",
+    "character_limit": 80,
+    "localizable": true,
+    "multiple": true
+  },
+  "description": {
+    "type": "richtext",
+    "required": true,
+    "localizable": true
+  },
+  "image": {
+    "type": "image"
+  },
+  "menu_url": {
+    "type": "url",
+    "localizable": true
+  },
+  "reservations_url": {
+    "type": "url"
+  },
+  "order": {
+    "type": "order"
+  },
+  "featured_order": {
+    "type": "order",
+    "display_field": "image"
+  }
+}

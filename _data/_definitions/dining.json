@@ -7,7 +7,8 @@
   "short_description": {
     "type": "text",
     "character_limit": 80,
-    "localizable": true
+    "localizable": true,
+    "multiple": true
   },
   "description": {
     "type": "richtext",
